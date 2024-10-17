@@ -3,8 +3,12 @@ body {
 	background-color: #f8f8f8;
 	font-family: sans-serif;
 }
-
-
+img{
+	padding-left: 40%
+}
+.book{
+	length:1;
+}
 .library {
 	background-color: #ffffff;
 	width: 100%;
